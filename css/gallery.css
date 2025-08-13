@@ -4,8 +4,6 @@ body{
 		background-color: #b3b3b3;
 }
 
-
-
 #image{
     line-height:600px;
 		width: 600px;
@@ -27,6 +25,7 @@ body{
 		margin-left: 2%;
     border: 10px solid black;
 }
+
 img{
 		width:95%;
     opacity: 0.5;
@@ -37,4 +36,9 @@ img:hover, img:focus{
     cursor: pointer;
     border: 10px solid #8e68ff;
     outline: none;
+}
+
+header {
+  text-align: center;
+  margin-bottom: 20px;
 }
